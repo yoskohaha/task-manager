@@ -1,6 +1,6 @@
-# task-manager
+# task-management-api
 
-RestAPI, написано на Typescript, Node.js с Express, Swagger, използва TypeOrm и контейнеризация с Docker.
+RestAPI, написано на Typescript, Node.js с Express, Swagger, използва TypeOrm и контейнеризация с Docker за взимане и качване на задачи.
 
 Как да пуснете програмата:
 
